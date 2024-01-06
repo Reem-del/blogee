@@ -1,0 +1,258 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "password": "tyuA^er6",
+      "email": "Shanna@melissa.com",
+      "admin": false,
+      "profession": "Doctor"
+    },
+    {
+      "id": 3,
+      "name": "Reem Hasan",
+      "password": "Reem1994&",
+      "email": "reemhasan088@gmail.com",
+      "admin": true,
+      "profession": "Journalist"
+    },
+    {
+      "id": 4,
+      "name": "yasser badre",
+      "password": "yyytabg77T*",
+      "email": "yasser@gmail.com",
+      "admin": false,
+      "profession": "Political specialist"
+    },
+    {
+      "id": 6,
+      "name": "Ema Dave",
+      "password": "emaD122&",
+      "email": "emai122@hotmail.com",
+      "admin": true,
+      "profession": "Beauty specialist"
+    },
+    {
+      "id": 7,
+      "name": "Mohand Ali",
+      "password": "mohHas89#",
+      "email": "mohand@hotmail.com",
+      "admin": false,
+      "profession": "Educational"
+    },
+    {
+      "name": "jame San",
+      "email": "jame3555@gamil.com",
+      "password": "jamE34*#",
+      "admin": false,
+      "profession": "Nutrisitionist",
+      "id": 8
+    },
+    {
+      "name": "Daniel lan",
+      "email": "dann65@hotmail.com",
+      "password": "DDee3444$",
+      "admin": false,
+      "profession": "Art specialist",
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Is Bread Bad for you ? Nutrition facts",
+      "body": "Bread is a staple food in many countries,but copmared in another foods like vigitables and fruits ,bread relatively less in essential nutrients,its high in carbs and calories but it is low in protein,fats ,fiber ,vitamins and minerals;\nhigh-carbs dietes can be associated with high risk of type two diabetes",
+      "userId": 8,
+      "subject": "Nutrition",
+      "reaction": {
+        "like": 0,
+        "smile": 1,
+        "love": 1,
+        "frown": 2
+      },
+      "date": "2024-01-04T20:56:36.028Z"
+    },
+    {
+      "id": 2,
+      "title": "Dark chocalete and its proven benefits",
+      "body": "Eating dark chocolate with high cocoa content in moderation can deliver antioxidants and minerals and may help protect you from heart disease. But it may also contain high amounts of sugar and calories.\n\n",
+      "userId": 8,
+      "subject": "Nutrition",
+      "reaction": {
+        "like": 0,
+        "smile": 1,
+        "love": 0,
+        "frown": 1
+      },
+      "date": "2024-01-04T21:01:04.066Z"
+    },
+    {
+      "id": 3,
+      "title": "Bones Health",
+      "body": "Bone is a living, growing tissue that mainly consists of collagen and calcium. Bones provide a rigid framework, known as the skeleton, which protects soft organs and supports the body.\nA person may have a condition or disease Trusted Source that affects the flexibility and strength of the bones. These conditions may arise from various sources, including genetics, environmental factors, diet, and infections.\nBone cancer is an uncommon type of cancer that begins when cells in a bone start to grow out of control. Any of the cells in the bone can develop into cancer.\n\n",
+      "userId": 2,
+      "subject": "Medical",
+      "reaction": {
+        "like": 1,
+        "smile": 0,
+        "love": 0,
+        "frown": 0
+      },
+      "date": "2024-01-06T19:15:20.334Z"
+    },
+    {
+      "id": 4,
+      "title": "Obesity",
+      "body": "Obesity is a long-term (chronic) health condition that progresses over time. Obesity is defined by excess body fat (adipose tissue) that may impair health.\nBody mass index (BMI) is a calculation that takes a person’s weight and height into account to measure body size. Doctors typically use it as a screening tool for obesity.\nBody mass index (BMI) is a calculation that takes a person’s weight and height into account to measure body size. Doctors typically use it as a screening tool for obesity.\nBody mass index (BMI) is a calculation that takes a person’s weight and height into account to measure body size. Doctors typically use it as a screening tool for obesity.\nsymptom of obesity:\nexcess amounts of abdominal (visceral) fat that are higher than the amounts of body fat in other areas\na waist circumference of greater than 40 inches for men or 35 inches for womenTrusted Source\na BMI over 30\n\n\n",
+      "userId": 2,
+      "subject": "Medical",
+      "reaction": {
+        "like": 0,
+        "smile": 0,
+        "love": 1,
+        "frown": 0
+      },
+      "date": "2024-01-06T19:22:10.528Z"
+    },
+    {
+      "userId": 3,
+      "subject": "worldy",
+      "title": "Japan earthquake",
+      "body": "A woman in her 90s has been found alive under rubble five days after a devastating earthquake struck central Japan.\\n\\nRescue workers discovered her in the wreckage of a two-storey building in the town of Suzu.\\nThe 7.5-magnitude earthquake struck the Japan Sea coast on Monday, flattening towns on the remote Noto peninsula.\\nMore than 120 people have been confirmed dead, and 200 are missing.",
+      "date": "2024-01-06T19:38:53.069Z",
+      "reaction": {
+        "like": 1,
+        "smile": 0,
+        "love": 0,
+        "frown": 0
+      },
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "subject": "Social",
+      "title": "Healthcare Shortage",
+      "body": "Lack of access to timely and quality healthcare is a social problem that is increasingly affecting Canadian and American societies, leading to extremely long waiting times for seeing a doctor. It also affects the overall quality of mental and physical healthcare negatively.",
+      "date": "2024-01-06T19:59:27.087Z",
+      "reaction": {
+        "like": 0,
+        "smile": 0,
+        "love": 1,
+        "frown": 0
+      },
+      "id": 7
+    },
+    {
+      "userId": 7,
+      "subject": "Social",
+      "title": "Social Isolation",
+      "body": "Social isolation often happens to elderly people or vulnerable populations with low social capital. Their isolation can be detrimental to their mental health.",
+      "date": "2024-01-06T20:00:01.960Z",
+      "reaction": {
+        "like": 0,
+        "smile": 0,
+        "love": 1,
+        "frown": 1
+      },
+      "id": 8
+    },
+    {
+      "userId": 7,
+      "subject": "Education",
+      "title": "Technology in education",
+      "body": "Technology in education is a powerful movement that is sweeping through schools nationwide. After all, today's students have grown up with digital technology and expect it to be part of their learning experience. But how much of a role should it play in education?\n\nProponents point out that educational technology offers the potential to engage students in more active learning, as evidenced in flipped classrooms. It can facilitate group collaboration and provide instant access to up-to-date resources. Teachers and instructors can integrate online surveys, interactive case studies, and relevant videos to offer content tailored to different learning styles. Indeed, students with special needs frequently rely on assistive technology to communicate and access course materials.",
+      "date": "2024-01-06T20:01:38.391Z",
+      "reaction": {
+        "like": 0,
+        "smile": 0,
+        "love": 0,
+        "frown": 0
+      },
+      "id": 9
+    },
+    {
+      "userId": 7,
+      "subject": "Education",
+      "title": "School safety",
+      "body": "Over the past several years, a string of high-profile mass shootings in U.S. schools have resulted in dozens of deaths and led to debates about the best ways to keep students safe. After 17 people were killed in a shooting at a high school in Parkland, Florida in 2018, 57 percent of teenagers said they were worried about the possibility of gun violence at their school.\nFiguring out how to prevent such attacks and save students and school personnel's lives are problems faced by teachers all across America.",
+      "date": "2024-01-06T20:02:40.318Z",
+      "reaction": {
+        "like": 0,
+        "smile": 0,
+        "love": 0,
+        "frown": 0
+      },
+      "id": 10
+    },
+    {
+      "userId": 9,
+      "subject": "Art",
+      "title": "Pablo Picasso, Guernica, 1937",
+      "body": "Pablo Picasso’s huge 1937 mural Guernica, which depicts the massacre of a Basque village in 1937, has since become a representation of every city ever bombed. It is one of the most powerful artistic decries against fascism, and has been a point of contention throughout the years due to its strong, critical message. Picasso refused to have it on display in Spain until justice had been restored there, and when it was on display at the MoMa in 1967, artists petitioned for it to be removed as a protest against the Vietnam War. In 2003, a tapestry version of Guernica was covered up at the United Nations.",
+      "date": "2024-01-06T20:05:02.980Z",
+      "reaction": {
+        "like": 0,
+        "smile": 0,
+        "love": 0,
+        "frown": 0
+      },
+      "id": 11
+    },
+    {
+      "userId": 9,
+      "subject": "Art",
+      "title": "Andres Serrano, Piss Christ, 1987",
+      "body": "Piss Christ is a 1987 photograph by Andres Serrano, depicting a small plastic crucifix submerged in a glass tank of Serrano’s urine. The piece caused a huge scandal and outrage from senators because Serrano had received taxpayer-funded support from the National Endowment for the Arts, and because many found the piece to be blasphemous. In this period, Serrano received death threats and hate mail. In 2011, a print of the piece was vandalized during an exhibition in Avignon, France.",
+      "date": "2024-01-06T20:05:44.907Z",
+      "reaction": {
+        "like": 0,
+        "smile": 0,
+        "love": 0,
+        "frown": 0
+      },
+      "id": 12
+    },
+    {
+      "userId": 6,
+      "subject": "Beauty",
+      "title": "The Ultimate Beginner's Guide to Skin Care",
+      "body": "If there is one certainty among the many, many uncertainties in our world right now, it is this: Taking the time to care for ourselves should no longer be considered an indulgence, or even a luxury. Rather, for so many reasons, it's a necessity — now more than ever. With skin care, though, there is another undeniable truth: It can often feel overwhelming.\n",
+      "date": "2024-01-06T20:08:52.991Z",
+      "reaction": {
+        "like": 0,
+        "smile": 1,
+        "love": 1,
+        "frown": 0
+      },
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "subject": "Politic",
+      "title": "Anti-racists slam blackface use in Spain's Epiphany parades",
+      "body": "ALCOY, Spain/BARCELONA/MADRID, Jan 6 (Reuters) - Anti-racism activists in Spain have called for a ban on the use of blackface seen in many of the country's traditional Epiphany celebrations.\nRita Bosaho, the first Black woman in Spain's parliament, said the practice - part of annual Jan. 5 parades on the eve of Epiphany that depict the biblical Three Kings who brought gifts to Jesus - tarnish the memory of enslaved people and disempower Black children.",
+      "date": "2024-01-06T20:28:02.715Z",
+      "reaction": {
+        "like": 0,
+        "smile": 0,
+        "love": 0,
+        "frown": 1
+      },
+      "id": 14
+    },
+    {
+      "id": 15,
+      "title": "German Culture: Facts, Customs and Traditions",
+      "body": "The people, language, and traditions are what make the German culture unique. It has had a key role in the history of Europe, and not only. English speakers call it Germany, Germans themselves call it Deutschland. Germany is known as the country of poets and thinkers.\n\nGerman culture has been influenced and shaped throughout Germany‘s rich history once as an important part of The Holy Roman Empire, and later on as one of the most stable economies in the world.\n\nWhereas today, Germany is home to 84.4 million people, including Germans and minorities of other nationalities, that respect each other and together make Germany a country of values, unique celebrations, and customs.",
+      "userId": 3,
+      "subject": "Culture",
+      "reaction": {
+        "like": 1,
+        "smile": 0,
+        "love": 0,
+        "frown": 0
+      },
+      "date": "2024-01-06T20:46:43.206Z"
+    }
+  ]
+}
