@@ -25,7 +25,7 @@ export default function Home(){
        <h2 className='absolute top-20 left-[40%]  text-2xl font-bold text-slate-800 cursor-auto underline hover:scale-110'>{!isLoading ? `Our Subjects`  : <Skeleton width={150} baseColor='gray' />}</h2>
         <div className='flex flex-row flex-wrap gap-5 absolute w-[600px] h-64 top-[50%]  left-[50%]  -translate-x-[50%] -translate-y-[50%] z-2 ' >
         {subjects.map(subject=>
-           !isLoading ? <div key={subject.id} className='relative w-36 h-28 m-2 home hover:scale-105 '  onClick={()=>navigate(`postList/${subject.title}`)}> 
+           !isLoading ? <div key={subject.id} className='relative w-36 h-24 m-2 home hover:scale-105 '  onClick={()=>navigate(`postList/${subject.title}`)}> 
            <img src={subject.src} alt={subject.title} className='relative w-full h-full rounded-full  brightness-50'  />
            <div className='absolute inset-0 flex  items-center justify-center'><h3 className='font-bold  text-xl  text-slate-100 font-serief cursor-pointer'>{subject.title}</h3></div>
            </div> : <Skeleton baseColor='gray' className='w-36 h-28 rounded-full' />
