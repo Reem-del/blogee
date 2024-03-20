@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 2,
+      "id": "2",
       "name": "Ervin Howell",
       "password": "tyuA^yer6",
       "email": "Shanna@melissa.com",
@@ -9,7 +9,7 @@
       "profession": "Doctor"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Reem Hasan",
       "password": "Reem1994&",
       "email": "reemhasan088@gmail.com",
@@ -17,7 +17,7 @@
       "profession": "Journalist"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "yasser badre",
       "password": "yyytabg77T*",
       "email": "yasser@gmail.com",
@@ -25,7 +25,7 @@
       "profession": "Political specialist"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Ema Dave",
       "password": "emaD122&",
       "email": "emai122@hotmail.com",
@@ -33,7 +33,7 @@
       "profession": "Beauty specialist"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Mohand Ali",
       "password": "mohHas89#",
       "email": "mohand@hotmail.com",
@@ -46,7 +46,7 @@
       "password": "jamE34*#",
       "admin": false,
       "profession": "Nutrisitionist",
-      "id": 8
+      "id": "8"
     },
     {
       "name": "Daniel lan",
@@ -54,12 +54,12 @@
       "password": "DDee3444$",
       "admin": false,
       "profession": "Art specialist",
-      "id": 9
+      "id": "9"
     }
   ],
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Is Bread Bad for you ? Nutrition facts",
       "body": "Bread is a staple food in many countries,but copmared in another foods like vigitables and fruits ,bread relatively less in essential nutrients,its high in carbs and calories but it is low in protein,fats ,fiber ,vitamins and minerals;\nhigh-carbs dietes can be associated with high risk of type two diabetes",
       "userId": 8,
@@ -73,7 +73,7 @@
       "date": "2024-01-04T20:56:36.028Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Dark chocalete and its proven benefits",
       "body": "Eating dark chocolate with high cocoa content in moderation can deliver antioxidants and minerals and may help protect you from heart disease. But it may also contain high amounts of sugar and calories.\n\n",
       "userId": 8,
@@ -87,7 +87,7 @@
       "date": "2024-01-04T21:01:04.066Z"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Bones Health",
       "body": "Bone is a living, growing tissue that mainly consists of collagen and calcium. Bones provide a rigid framework, known as the skeleton, which protects soft organs and supports the body.\nA person may have a condition or disease Trusted Source that affects the flexibility and strength of the bones. These conditions may arise from various sources, including genetics, environmental factors, diet, and infections.\nBone cancer is an uncommon type of cancer that begins when cells in a bone start to grow out of control. Any of the cells in the bone can develop into cancer.\n\n",
       "userId": 2,
@@ -101,7 +101,7 @@
       "date": "2024-01-06T19:15:20.334Z"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Obesity",
       "body": "Obesity is a long-term (chronic) health condition that progresses over time. Obesity is defined by excess body fat (adipose tissue) that may impair health.\nBody mass index (BMI) is a calculation that takes a person’s weight and height into account to measure body size. Doctors typically use it as a screening tool for obesity.\nBody mass index (BMI) is a calculation that takes a person’s weight and height into account to measure body size. Doctors typically use it as a screening tool for obesity.\nBody mass index (BMI) is a calculation that takes a person’s weight and height into account to measure body size. Doctors typically use it as a screening tool for obesity.\nsymptom of obesity:\nexcess amounts of abdominal (visceral) fat that are higher than the amounts of body fat in other areas\na waist circumference of greater than 40 inches for men or 35 inches for womenTrusted Source\na BMI over 30\n\n\n",
       "userId": 2,
@@ -126,7 +126,7 @@
         "love": 0,
         "frown": 0
       },
-      "id": 6
+      "id": "6"
     },
     {
       "userId": 7,
@@ -140,7 +140,7 @@
         "love": 1,
         "frown": 0
       },
-      "id": 7
+      "id": "7"
     },
     {
       "userId": 7,
@@ -154,7 +154,7 @@
         "love": 1,
         "frown": 1
       },
-      "id": 8
+      "id": "8"
     },
     {
       "userId": 7,
@@ -168,7 +168,7 @@
         "love": 0,
         "frown": 0
       },
-      "id": 9
+      "id": "9"
     },
     {
       "userId": 7,
@@ -182,7 +182,7 @@
         "love": 0,
         "frown": 0
       },
-      "id": 10
+      "id": "10"
     },
     {
       "userId": 9,
@@ -196,7 +196,7 @@
         "love": 0,
         "frown": 0
       },
-      "id": 11
+      "id": "11"
     },
     {
       "userId": 9,
@@ -210,7 +210,7 @@
         "love": 0,
         "frown": 1
       },
-      "id": 12
+      "id": "12"
     },
     {
       "userId": 6,
@@ -222,9 +222,9 @@
         "like": 0,
         "smile": 1,
         "love": 1,
-        "frown": 0
+        "frown": 1
       },
-      "id": 13
+      "id": "13"
     },
     {
       "userId": 4,
@@ -238,10 +238,10 @@
         "love": 0,
         "frown": 1
       },
-      "id": 14
+      "id": "14"
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "German Culture: Facts, Customs and Traditions",
       "body": "The people, language, and traditions are what make the German culture unique. It has had a key role in the history of Europe, and not only. English speakers call it Germany, Germans themselves call it Deutschland. Germany is known as the country of poets and thinkers.\n\nGerman culture has been influenced and shaped throughout Germany‘s rich history once as an important part of The Holy Roman Empire, and later on as one of the most stable economies in the world.\n\nWhereas today, Germany is home to 84.4 million people, including Germans and minorities of other nationalities, that respect each other and together make Germany a country of values, unique celebrations, and customs.",
       "userId": 3,
