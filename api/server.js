@@ -1,47 +1,4 @@
-const jsonServer = require('json-server')
-
-const server = jsonServer.create()
-
-const router = jsonServer.router('Data/db.json')
-
-const middlewares = jsonServer.defaults()
-
-server.use(middlewares)
-// Add this before server.use(router)
-server.use(jsonServer.rewriter({
-    '/api/*': '/$1',
-    '/blog/:resource/:id/show': '/:resource/:id'
-}))
-server.use(router)
-server.listen(3001, () => {
-    console.log('JSON Server is running')
-})
-
-// Export the Server API
-module.exports = server
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*const jsonServer=require('json-server');
+const jsonServer=require('json-server');
 const path=require('path');
 const server=jsonServer.create();
 const router=jsonServer.router(path.join(__dirname,'Data','db.json'));
@@ -52,4 +9,4 @@ const Port=3001;
 server.listen('port',()=>{
     console.log(`json server running on port ${Port}`)
 })
-module.exports=server*/
+module.exports=server
