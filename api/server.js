@@ -7,7 +7,7 @@ const middlewares=jsonServer.defaults()
 server.use(middlewares)
 server.use(router)
 const Port=3001;
-server.listen('port',()=>{
+server.listen(3001,()=>{
     console.log(`json server running on port ${Port}`)})
 }
 catch(error){(console.log(error))}
