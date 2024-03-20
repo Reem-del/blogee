@@ -10,6 +10,6 @@ const Port=3001;
 server.listen('port',()=>{
     console.log(`json server running on port ${Port}`)})
 }
-catch(error){(console.error())}
+catch(error){(console.log(error))}
 
 module.exports=server
